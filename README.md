@@ -31,7 +31,7 @@ environment variables are and why they are saved inside the .bash_profile. With 
 new variables and an alias inside our .bash_profile files. Himanshu then told us that to complete the process
 we had to 'source /.bash_profile' in the terminal. I created the variable and alias for pui2016 on my 
 local machine. Himanshu guided us through the process. 
-7. On September 9, using the process that Himanshu explaind yesterday, I created environment 
+7. On September 9, using the process that Himanshu explained the day prior, I created environment 
 variables on Compute. Screenshots are here:
-<image src ="/Users/kristikorsberg/Documents/NYUCUSP/PUI2016/bash_profile_screen_shot.png"/>
+
 
