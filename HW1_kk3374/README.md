@@ -38,7 +38,7 @@ the process we had to 'source /.bash_profile' in the terminal. I created the var
 on my local machine. 
 7. On September 9, using the process that Himanshu explained the day prior, I created environment 
 variables on Compute. I learned how to create screenshots by reading github tutorials online. 
-8. I started the extra credit independently and successfully wrote np.random.seed() and created 50 2x10 arrays
+8. I started the extra credit independently and successfully wrote np.random.seed() and created 50 2x100 arrays
 with normal Gaussian distributions across a new mean and new standard deviation. However, I was unable to plot 
 the distributions without assistance. I did not know how to call the (X,Y) variables inside the array. Aaron 
 assisted with this and explained his line of code "pl.plot(reprRandAll[i][0], reprRandAll[i][1])". This line
