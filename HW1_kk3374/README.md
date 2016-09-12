@@ -47,6 +47,7 @@ Screenshots from local machine
 
 ![alt tag](https://cloud.githubusercontent.com/assets/22032802/18439326/dd1a17f4-78d2-11e6-88ff-f87b5a0da3e0.png)
 ![alt tag](https://cloud.githubusercontent.com/assets/22032802/18439419/43aca7ca-78d3-11e6-9e4b-ca9c40a4e1c1.png)
+
 8. I started the extra credit independently and successfully wrote np.random.seed() and created 50 2x10 arrays
 with normal Gaussian distributions across a new mean and new standard deviation. However, I was unable to plot 
 the distributions without assistance. I did not know how to call the (X,Y) variables inside the array. Aaron 
