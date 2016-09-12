@@ -55,4 +55,3 @@ assisted with this and explained his line of code "pl.plot(reprRandAll[i][0], re
 iterates through the 50 arrays (with i), calling the zero-ith and first elements inside each array. Aaron's
 plot has many extra features (like his color label variable, for example), which I didn't include in mine. For 
 the challenge part of the extra credit, I made the mean random by calling np.random.randn().
-
