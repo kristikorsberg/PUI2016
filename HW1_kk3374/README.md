@@ -38,6 +38,7 @@ on my local machine. Himanshu guided us through the process.
 7. On September 9, using the process that Himanshu explained the day prior, I created environment 
 variables on Compute. I learned how to create screenshots by reading github tutorials online. 
 Screenshots are here:
+
 Screenshots from Compute
 
 ![alt tag](https://cloud.githubusercontent.com/assets/22032802/18398300/33dbab2e-769a-11e6-96da-50d3c25f6ad6.png)
