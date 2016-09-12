@@ -19,7 +19,7 @@ repo called 'gittest_kkorsberg'.
 4. I attended Sabreen's Office Hours on Thursday, September 8. Initially I was there to review environmental
 variables (more on that below), but I ended up working with Danny, Victor, and Yuan on github forking. I
 forked Danny's gittest file. On September 9, I also forked Shay's 'myfirstfile.txt' file inside her
-gittest repository. Both Shay and Danny successfully merged my edits to her file. 
+gittest repository. Both Shay and Danny successfully merged my edits to their files. 
 I sought help from Sabreen with forking. She assisted me in identifying which file paths to copy into the 
 'git clone' command. 
 5. On September 9, I received a pull request from Shay because she made edits to my 'myfirstfile.txt' file.
