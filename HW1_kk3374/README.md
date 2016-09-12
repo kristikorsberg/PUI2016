@@ -20,30 +20,31 @@ repo called 'gittest_kkorsberg'.
 variables (more on that below), but I ended up working with Danny, Victor, and Yuan on github forking. I
 forked Danny's gittest file. On September 9, I also forked Shay's 'myfirstfile.txt' file inside her
 gittest repository. Both Shay and Danny successfully merged my edits to her file. 
-Having not used github before, I sought help from Sabreen, who helped with forking. She assisted me in 
-identifying which file paths to copy into the 'git clone' command. 
+I sought help from Sabreen with forking. She assisted me in identifying which file paths to copy into the 
+'git clone' command. 
 5. On September 9, I received a pull request from Shay because she made edits to my 'myfirstfile.txt' file.
 I merged these edits with my master file, which can be seen on line 12 in my gittest_kkorsberg 'myfirstfile.txt'. 
-Later in the week, Victor forked my 'myfirstfile.txt' as well, and I accepted his changes, which are reflected
-on line 13. 
+Later in the week, Victor forked my 'myfirstfile.txt', and I accepted his changes, which are reflected
+on line 13. I also received a fork request from Patrick, which I accepted on September 12. I forked his first
+file as well. 
 6. On September 8, I read Ryan Chadwick's bash tutorial in order to set environment variables. I created
 two variables in my .bash_profile to test the process, however I did not complete the task because I wasn't 
 sure where to save the alias. I also didn't know I had to 'source .bash_profile' to make the system 
-acknowledge the new lines inside the file. The following day, I attended Sabreen's office hours to get some 
-guidance about what to do. Ultimately, Himanshu arrived and explained to the group (Victor, Yuan, Danny, and 
-myself) what environment variables are and why they are saved inside the .bash_profile. With that information, 
+acknowledge the new lines inside the file. The following day, at Sabreen's office hours, I got some 
+guidance about what to do. Himanshu arrived and explained to the group (Victor, Yuan, Danny, and 
+myself) what environment variables are and why they are saved inside the .bash_profile on Macs. With that information, 
 we created new variables and an alias inside our .bash_profile files. Himanshu then told us that to complete
 the process we had to 'source /.bash_profile' in the terminal. I created the variable and alias for pui2016 
-on my local machine. Himanshu guided us through the process. 
+on my local machine. 
 7. On September 9, using the process that Himanshu explained the day prior, I created environment 
 variables on Compute. I learned how to create screenshots by reading github tutorials online. 
 8. I started the extra credit independently and successfully wrote np.random.seed() and created 50 2x10 arrays
 with normal Gaussian distributions across a new mean and new standard deviation. However, I was unable to plot 
 the distributions without assistance. I did not know how to call the (X,Y) variables inside the array. Aaron 
 assisted with this and explained his line of code "pl.plot(reprRandAll[i][0], reprRandAll[i][1])". This line
-iterates through the 50 arrays (with i), calling the zero-ith and first elements inside each array. Aaron's
-plot has many extra features (like his color label variable, for example), which I didn't include in mine. For 
-the challenge part of the extra credit, I made the mean random by calling np.random.randn().
+iterates through the 50 arrays (with i), calling the zero-ith and first elements inside each array for plotting. 
+Aaron's plot has many extra features (like his color label variable, for example), which I didn't include in mine. 
+For the challenge part of the extra credit, I made the mean random by calling np.random.randn().
 
 Screenshots are here:
 
