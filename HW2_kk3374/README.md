@@ -1,6 +1,6 @@
 # PUI2016
 
-The tasks associated with Homework One are itemized below. I describe what I did to personally
+The tasks associated with Homework Two are itemized below. I describe what I did to personally
 contribute, and explain who I worked with.
 
 PUI2016 Homework 2 comprised of five separate assignments inclusive of extra credit. The 
