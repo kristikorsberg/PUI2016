@@ -26,7 +26,7 @@ on Stack #Overflow, which indented everything in a more readable fashion. The li
 code that I modified for use on this file can be found here: 
 http://stackoverflow.com/questions/3229419/pretty-printing-nested-dictionaries-in-python
 
-For Assignment 1, I created a Python script entitled 'show_bus_locations_kk3374.csv', 
+For Assignment 1, I created a Python script entitled 'show_bus_locations.py', 
 which takes two arguments from the command line, <MTA API Key> and <Bus Number> and outputs
 the bus line number, the number of active buses, and each active bus' location with the
 formatting required in the homework instructions. Please see Figure 1 for a screenshot
@@ -59,6 +59,10 @@ the latitude and longitude for each bus. At this point, I created two variables,
 and 'longitude', and used the 'i' iterator to grab the location data for each active bus. 
 I then used a print statement to capture the bus line, the number of active buses, and
 each active bus' respective latitude and longitude. 
+On September 19th, I came to CUSP early to work, and spoke with Nonie and Santiago.
+I helped Nonie trouble shoot her code for Assignment 1. She was getting an error while
+running, and we determined that she had included her API Key twice in the URL call. Once
+she removed the extra API Key reference, the code ran smoothly. 
 
 On Friday, while I was at CUSP I was working in one of the conference rooms with 
 Alex Kalinin. He had a hard time getting started with Assignment 1, so I spent some time
@@ -75,12 +79,20 @@ element. I also printed the 'PresentableDistance' value to show how far away the
 was from the next stop. The most challenging part of this assignment was eliminating
 the runtime errors, which occurred when either 'PresentableDistance' or 'StopPointName'
 were empty. To fix this error, I wrote an if statement, which replaced the empty
-values with 'N/A'. At this point, the code ran smoothly. 
+values with 'N/A'. At this point, the code ran smoothly. On September 19th, while working
+with Santiago and Nonie, they showed me that I had to create a .csv file with the bus 
+information output. I didn't see that in the assignment directions, so I modified my 
+get_bus_info.py file to include IO commands. I used Mohit Sharma's UCSL IO directions to 
+ensure all of my commands were accurate and pushed the updated .py file to github. 
 
 In order to complete Assignment 3, I used Mohit Sharma's Pandas tutorial, and some this
-online reference: 
+online references to appropriately write Pandas code: 
 http://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.plot.scatter.html
 I wasn't sure how to open the CUSP Data Facility inside Compute so I spoke with Graham
 Henke, who showed me how to access datafiles from the DF on the command line. 
 Once I had the DF accessible, I followed the directions for how to use Pandas from the
-UI Notesbooks. I worked on this independently. 
+UI Notesbooks. I worked on this assignment independently. I downloaded a few different
+data files from the DF, rendered them in iPython and dropped all but two numerical
+columns for the first section of this assignment. I then plotted two numerical columns
+against one another and included appropriate axes labels, a plot title, and a 
+short caption. 
