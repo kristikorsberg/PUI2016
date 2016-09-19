@@ -93,6 +93,9 @@ that writes a file with the third argv[3] command to Laura Gladson.
 names may be a part of Laura Gladson, Alex Kalinin, Nonie Mathur, and Santiago
 Castillo's Assignment 2, so if our scripts are similar, it is because we worked
 on the homework together. 
+I spoke with Sabreen during her office hours on September 19, and determined that I should
+write new line characters at the end of each line in the .csv output file. I updated
+my script with this modification and submitted it. 
 
 In order to complete Assignment 3, I used Mohit Sharma's Pandas tutorial, and some 
 online references to write Pandas code: 
