@@ -84,6 +84,11 @@ with Santiago and Nonie, they showed me that I had to create a .csv file with th
 information output. I didn't see that in the assignment directions, so I modified my 
 get_bus_info.py file to include IO commands. I used Mohit Sharma's UCSL IO directions to 
 ensure all of my commands were accurate and pushed the updated .py file to github. 
+Assisted Laura Gladson with f.open() and other commands associated with creating a script
+that will write a file with the third argv[3] command.
+*I think that some of my script about opening files, and calling files by specific
+names may be a part of Laura Gladson, Alex Kalinin, Nonie Mathur, and Santiago
+Castillo's Assignment 2... so if our scripts are similar, that is why. 
 
 In order to complete Assignment 3, I used Mohit Sharma's Pandas tutorial, and some this
 online references to appropriately write Pandas code: 
@@ -95,4 +100,6 @@ UI Notesbooks. I worked on this assignment independently. I downloaded a few dif
 data files from the DF, rendered them in iPython and dropped all but two numerical
 columns for the first section of this assignment. I then plotted two numerical columns
 against one another and included appropriate axes labels, a plot title, and a 
-short caption. 
+short caption. I shared Graham's advice about how to navigate through the DF with
+Laura Gladson, Alex Kalinin, Nonie Mathur, and Santiago Castillo. 
+
