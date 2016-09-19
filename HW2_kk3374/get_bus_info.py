@@ -27,7 +27,7 @@ for elem in countOfBuses:
     else:
         stopName = closestStop["OnwardCall"][0]["StopPointName"]
         proximity = closestStop["OnwardCall"][0]["Extensions"]["Distances"]["PresentableDistance"]
-        f.write((str(lat) + ", " + str(longitude) + ", " + str(stopName) + ", " + str(proximity)) + ", ")
+    f.write((str(lat) + ", " + str(longitude) + ", " + str(stopName) + ", " + str(proximity)) + ", ")
     print(str(lat) + ", " + str(longitude) + ", " + str(stopName) + ", " + str(proximity))
     i +=1
 if f:
