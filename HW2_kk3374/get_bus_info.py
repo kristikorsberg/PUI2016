@@ -10,13 +10,11 @@ data = response.read().decode("utf-8")
 busData = json.loads(data)
 
 i = 0
-filename = str(sys.argv[2]) + '.csv'
+filename = str(sys.argv[3])
 f = open(filename, 'w')
 f.write('Latitude,Longitude,Stop Name,Stop Status,')
 print('Latitude,Longitude,Stop Name,Stop Status')
 #print(json.dumps(busInfo, sort_keys=True, indent=2))
-
-print('Latitude, Longitude, Stop Name, Stop Status')
 
 countOfBuses = busData['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
 for elem in countOfBuses:
