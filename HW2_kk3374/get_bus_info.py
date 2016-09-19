@@ -10,6 +10,10 @@ data = response.read().decode("utf-8")
 busData = json.loads(data)
 
 i = 0
+filename = str(sys.argv[2]) + '.csv'
+f = open(filename, 'w')
+f.write('Latitude,Longitude,Stop Name,Stop Status,')
+print('Latitude,Longitude,Stop Name,Stop Status')
 #print(json.dumps(busInfo, sort_keys=True, indent=2))
 
 print('Latitude, Longitude, Stop Name, Stop Status')
@@ -25,5 +29,8 @@ for elem in countOfBuses:
     else:
         stopName = closestStop["OnwardCall"][0]["StopPointName"]
         proximity = closestStop["OnwardCall"][0]["Extensions"]["Distances"]["PresentableDistance"]
+        f.write((str(lat) + ", " + str(longitude) + ", " + str(stopName) + ", " + str(proximity)) + ", ")
     print(str(lat) + ", " + str(longitude) + ", " + str(stopName) + ", " + str(proximity))
     i +=1
+if f:
+    f.close()
