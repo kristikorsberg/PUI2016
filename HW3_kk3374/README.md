@@ -31,9 +31,6 @@ well, to be sure that I understood the 'Pythonic' code written in class. I had s
 difficulty with the binomial distribution, in that I could not ensure that the scatter
 plot would follow the funnel shape, despite the fact that the histogram was accurate.
 
-#NEED TO CHECK BINOMIAL SCATTER DISTRIBUTION. IT IS NOT A FUNNEL. 
-#NEED TO FIT GAUSSIAN DISTRIBUTION
-
 For Assignment 2, we made a Jupyter Notebook inside Compute, which sets the foundation for 
 a data driven insight about Citi Bike data. We had to create null and alternative 
 hypotheses with a confidence level, use Pandas to read the Citi Bike data directly from
