@@ -19,4 +19,4 @@ Chi Squared	| 1, month of birth | categorical | 1, risk of mortality | discrete 
 multiple regression	| 5, age, obesity, alcoholism, family history of hypertension, diabetes | discrete, categorical, categorical, categorical, categorical | 1, hypertension | discrete | unknown | unknown | is there a relation between month of birth and mortality risk? | socio-demographic and clinical attributes do not affect the prevalence of hypertension amont adults in the indigenous village of Jaguapiru, Brazil | 0.001 | [Socio-economic and Clinical Factors that Affect Prevalence of Hypertension, Jaguapiru, Brazil](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086278) |
   |||||||||
 
-4. 
+4. For the third assignment, I worked independently to learn about the z test and the chi squared test. In order to find the z and chi squared statistics, I followed Federica's skeleton notebook, read "Introduction to Statistics", and watched several videos through Khan Academy. 
