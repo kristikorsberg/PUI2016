@@ -9,7 +9,7 @@ the one-tailed and two-tailed t-test so that I could provide him with the most a
 3. I chose to evaluate a chi squared study and a linear regression study, which were representative of statistical tests
 that identify a difference in means and those which assess the relationship between independent and dependent variables. The tables are at the bottom of this README.md.
 
-4. For the third assignment, I worked independently to learn about the z test and the chi squared test. In order to find the z and chi squared statistics, I followed Federica's skeleton notebook, read "Introduction to Statistics", and watched several videos through Khan Academy. 
+4. For the third assignment, I worked independently to learn about the z test and the chi squared test. In order to find the z and chi squared statistics, I followed Federica's skeleton notebook, read "Introduction to Statistics", and watched several videos through Khan Academy. I met with Laura Gladson, Nonie Mathur, and Santiago Carrillo on Monday, October 3 and they clarified some points for me. First, I learned that I was using the wrong value for the 'area' variable. I used the .998 variable from class when I should have looked at the z score table for the .846 value, stored in variable 'z_2y'. We also conferred with each other about the chi squared contingency table. 
 
 | *Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
