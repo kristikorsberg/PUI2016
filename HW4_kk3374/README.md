@@ -1,13 +1,19 @@
-This is the README.md file for HW4
+This is the README.md file for PUI HW4
 
 1. I completed the reading entitled 'Estimating the Reproducibility of Social Sciences"
 
 2. I reviewed Hrafnkell Hjorleifsson's Citi Bike repo, and determined that he should use a one-tailed t-test to evaluate 
 the difference in means between weekday ridership and weekend day ridership. I emailed Federica to ensure that I understood
-the one-tailed and two-tailed t-test so that I could provide Keli with the most accurate recommendation.
+the one-tailed and two-tailed t-test so that I could provide him with the most accurate recommendation. My CitibikeReview_kk3374.md file can be found in his HW4 PUI repository. 
 
 3. I chose to evaluate a chi squared study and a linear regression study, which were representative of statistical tests
 that identify a difference in means and those which assess the relationship between independent and dependent variables. 
+
+| **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+ANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, age | continuous (could also be categoridcal) | 	Do participants in self-affirmation rak  value significantly higher than control group | Ranks test groups <= Ranks control group | 0.05 | [Self-Affirmation Improves Problem-Solving under Stress](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062593) |
+  |||||||||
+
 Statistical Analysis - Chi Squared
 Independent Variable(s)	- month of birth
 IV Type(s) - categorical
