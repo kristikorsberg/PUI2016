@@ -9,9 +9,10 @@ the one-tailed and two-tailed t-test so that I could provide him with the most a
 3. I chose to evaluate a chi squared study and a linear regression study, which were representative of statistical tests
 that identify a difference in means and those which assess the relationship between independent and dependent variables. 
 
-| **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
+| *Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-ANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, age | continuous (could also be categoridcal) | 	Do participants in self-affirmation rak  value significantly higher than control group | Ranks test groups <= Ranks control group | 0.05 | [Self-Affirmation Improves Problem-Solving under Stress](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062593) |
+Chi Squared	| 1, month of birth | categorical | 1, did Self Affirmation or no?| categorical? | 1, age? | continuous (could also be categoridcal)? | 	Do participants in self-affirmation rak  value significantly higher than control group? | age of death for individuals born Jan - March, April - June, July - September, and October - December have the same
+risk of death as those individuals born in the month of November | 0.05? | [Self-Affirmation Improves Problem-Solving under Stress](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056425) |
   |||||||||
 
 Statistical Analysis - Chi Squared
