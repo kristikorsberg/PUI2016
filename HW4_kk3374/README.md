@@ -45,6 +45,7 @@ in the Brazilian village of Jaguapiru.
 H0	- socio-demographic and clinical attributes do not affect the prevalence of hypertension amont adults in the indigenous
 village of Jaguapiru, Brazil
 Alpha	Link to Paper - http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086278
+
 | *Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 multiple regression	| 5, age, obesity, alcoholism, family history of hypertension, diabetes | discrete, categorical, categorical, categorical, categorical | 1, hypertension | discrete | unknown | unknown | is there a relation between month of birth and mortality risk? | socio-demographic and clinical attributes do not affect the prevalence of hypertension amont adults in the indigenous village of Jaguapiru, Brazil | 0.001 | [Socio-economic and Clinical Factors that Affect Prevalence of Hypertension, Jaguapiru, Brazil](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086278) |
