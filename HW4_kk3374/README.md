@@ -11,8 +11,8 @@ that identify a difference in means and those which assess the relationship betw
 
 | *Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-Chi Squared	| 1, month of birth | categorical | 1, did Self Affirmation or no?| categorical? | 1, age? | continuous (could also be categoridcal)? | 	Do participants in self-affirmation rak  value significantly higher than control group? | age of death for individuals born Jan - March, April - June, July - September, and October - December have the same
-risk of death as those individuals born in the month of November | 0.05? | [Self-Affirmation Improves Problem-Solving under Stress](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056425) |
+Chi Squared	| 1, month of birth | categorical | 1, risk of mortality| continuous | 2, age and education | categorical | 	Is there a relation between month of birth and mortality risk? | age of death for individuals born Jan - March, April - June, July - September, and October - December have the same
+risk of death as those individuals born in the month of November? | 0.001 | [Birth Year as Predictor of Age at Death](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056425) |
   |||||||||
 
 Statistical Analysis - Chi Squared
@@ -20,7 +20,7 @@ Independent Variable(s)	- month of birth
 IV Type(s) - categorical
 Dependent Variable(s)	- age at death
 DV Type(s) - continuous
-Control Variable(s)- education
+Control Variable(s)- education and gender
 Control Variable Type(s) - categorical
 Question to be Answered	- does month of birth impact risk of death?
 H0 - age of death for individuals born Jan - March, April - June, July - September, and October - December have the same
