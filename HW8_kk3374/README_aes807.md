@@ -1,6 +1,6 @@
 aes807
 
-![](image.png)
+![](achillesplot1.png)
 
 Hi Achilles, your plots are extremely easy to understand. Great visuals! For the first one, 'Plotting of the Total Time-Zones
 in America for Randomized Data', the font sizes, color scheme, axis labels, and title give the viewier a great summary of 
@@ -10,7 +10,7 @@ piece of feedback here is that I am not quite sure what it is you are counting. 
 you want, so this count is fine, however the one piece of improvement would be to plot a count of something that is more
 understandable.
 
-![](secondimage.png)
+![](achillesplot2.png)
 
 The randomly generated 3D plot is also easy to read. Given its dimensionality, it might be nice to have fewer bar plots though.
 It is a little complex.  
