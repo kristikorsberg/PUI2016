@@ -1,5 +1,3 @@
-1. Include the plot as a rendered image inside the readme file. 
-
 as10790
 
 ![](anastasiaplot.png)
@@ -17,4 +15,3 @@ over time. One example of this would be to create five different graphs, one per
 for one year at a time and then compare them. Last, and I'm not sure if this is the case, but the scatter plot wouldn't show
 if more than one racial group had the same mean score, so a histogram may be an interesting way to depict the distribution of 
 different scores as well. I do think the plot is honestly reproducing the data, it is just leaving out the element of race. 
-
