@@ -2,7 +2,7 @@
 
 as10790
 
-![](image.png)
+![](anastasiaplot.png)
 
 Hi Anastasia, I really like your plot, visually depicting the mean math scores on New York state tests for students
 in grades 3 thorugh 8. I think that differentiating the grades by colors in the scatter plot by is an incredibly useful visual aid, 
