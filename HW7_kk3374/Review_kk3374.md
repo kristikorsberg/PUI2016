@@ -1,9 +1,9 @@
 ![kKristin Korsberg plot](https://github.com/clairehxq/PUI2016_xh895/blob/master/HW8_xh895/kk3374_plot.png)
 
 # Figure
-Size: big enough to see the plot
+Size: big enough to see the plot.
 
-Title: clear for readers to understand the content
+Title: clear for readers to understand the content.
 
 Axis: 
       label: clear and accurate. Unit in parenthesis.
