@@ -50,3 +50,5 @@ that was analyzed for HW3. I ran a t-test and incorporated feedback from both re
 in my final notebook. The Authorea link to my post is here: 
 https://www.authorea.com/users/106897/articles/133954/_show_article.
 
+# FBB
+the analysis is quite good, and the writing is fine. But the report has no figures or tables to show that data. that is essentia in a scientific report
