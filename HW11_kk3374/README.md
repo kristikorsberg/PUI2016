@@ -1,0 +1,1 @@
+I completed Assignments 1, 2, and 3 individually for this homework. I consulted several online resources in order to plot with Geopandas. I also reviewed homework assignments from my Applied Data Science class in order to run the KMeans cluster analysis.
